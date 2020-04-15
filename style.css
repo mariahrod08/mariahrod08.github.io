@@ -1,0 +1,20 @@
+body{
+	background-color: #ed1212; /*this adds a red color to the background*/
+}
+p{
+	font: arial; /*this sets the font of the paragraphs to arial */
+	color:#ffffff; /*this sets the color of the text within the paragraph tag to red */
+}
+h1{
+	font-size:2em; /*this sets the font size */
+	color:#ffffff; /*this makes the h1 heading white color */
+}
+ul{
+	color:#ffffff;
+	padding:0.5;
+}
+h2{
+	font-size:1.5em;
+	color:#ffffff;
+	padding-left:0;
+}
